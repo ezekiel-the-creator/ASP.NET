@@ -27,3 +27,4 @@
 /home/yb_zvk/Programming/Razor_Demo/DemoBlazor/obj/Debug/net8.0/DemoBlazor.pdb
 /home/yb_zvk/Programming/Razor_Demo/DemoBlazor/obj/Debug/net8.0/DemoBlazor.genruntimeconfig.cache
 /home/yb_zvk/Programming/Razor_Demo/DemoBlazor/obj/Debug/net8.0/ref/DemoBlazor.dll
+/home/yb_zvk/Programming/Razor_Demo/DemoBlazor/obj/Debug/net8.0/DemoBlazor.sourcelink.json
